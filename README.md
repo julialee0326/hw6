@@ -9,4 +9,5 @@
 ![](https://github.com/julialee0326/hw6/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA21.PNG?raw=true)
 ### 2 
 ![](https://github.com/julialee0326/hw6/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA22.PNG?raw=true)   ![](https://github.com/julialee0326/hw6/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA222.PNG)
-Как видно из прикрепленного выше скриншота, дополнения "countryside", "ocean" и др. могут употребляться как с глаголом "roam", так и с глаголом "wander". Дополнение "desert" используется только с "roam", а дополнение "tramp" лишь с глаголом "wander".
+ 
+ Из прикрепленного выше скриншота видно, что дополнения "countryside", "ocean" и др. могут употребляться как с глаголом "roam", так и с глаголом "wander". Дополнение "desert" используется только с "roam", а дополнение "tramp" лишь с глаголом "wander".
